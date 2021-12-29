@@ -1,0 +1,14 @@
+E:\Fall 21-22\OOP 2 Lab Task\Week8TheoryWork\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+E:\Fall 21-22\OOP 2 Lab Task\Week8TheoryWork\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+E:\Fall 21-22\OOP 2 Lab Task\Week8TheoryWork\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+E:\Fall 21-22\OOP 2 Lab Task\Week8TheoryWork\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+E:\Fall 21-22\OOP 2 Lab Task\Week8TheoryWork\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+E:\Fall 21-22\OOP 2 Lab Task\Week8TheoryWork\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+E:\Fall 21-22\OOP 2 Lab Task\Week8TheoryWork\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week8TheoryWork\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 21-22\OOP 2 Lab Task\Week8TheoryWork\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week8TheoryWork\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+E:\Fall 21-22\OOP 2 Lab Task\Week8TheoryWork\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week8TheoryWork\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+E:\Fall 21-22\OOP 2 Lab Task\Week8TheoryWork\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+E:\Fall 21-22\OOP 2 Lab Task\Week8TheoryWork\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache

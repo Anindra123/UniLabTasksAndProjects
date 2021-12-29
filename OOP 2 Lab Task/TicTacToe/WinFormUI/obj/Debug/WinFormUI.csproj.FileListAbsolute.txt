@@ -1,0 +1,11 @@
+E:\Fall 21-22\OOP 2 Lab Task\TicTacToe\WinFormUI\bin\Debug\WinFormUI.exe.config
+E:\Fall 21-22\OOP 2 Lab Task\TicTacToe\WinFormUI\bin\Debug\WinFormUI.exe
+E:\Fall 21-22\OOP 2 Lab Task\TicTacToe\WinFormUI\bin\Debug\WinFormUI.pdb
+E:\Fall 21-22\OOP 2 Lab Task\TicTacToe\WinFormUI\obj\Debug\WinFormUI.csproj.AssemblyReference.cache
+E:\Fall 21-22\OOP 2 Lab Task\TicTacToe\WinFormUI\obj\Debug\WinFormUI.TicTacToe.resources
+E:\Fall 21-22\OOP 2 Lab Task\TicTacToe\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+E:\Fall 21-22\OOP 2 Lab Task\TicTacToe\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+E:\Fall 21-22\OOP 2 Lab Task\TicTacToe\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\TicTacToe\WinFormUI\obj\Debug\WinFormUI.exe
+E:\Fall 21-22\OOP 2 Lab Task\TicTacToe\WinFormUI\obj\Debug\WinFormUI.pdb
+E:\Fall 21-22\OOP 2 Lab Task\TicTacToe\WinFormUI\obj\Debug\WinFormUI.NewGame.resources

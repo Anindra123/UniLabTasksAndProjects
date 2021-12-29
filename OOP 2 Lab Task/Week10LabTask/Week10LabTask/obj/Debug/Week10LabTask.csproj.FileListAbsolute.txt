@@ -1,0 +1,11 @@
+E:\Fall 21-22\OOP 2 Lab Task\Week10LabTask\Week10LabTask\bin\Debug\Week10LabTask.exe.config
+E:\Fall 21-22\OOP 2 Lab Task\Week10LabTask\Week10LabTask\bin\Debug\Week10LabTask.exe
+E:\Fall 21-22\OOP 2 Lab Task\Week10LabTask\Week10LabTask\bin\Debug\Week10LabTask.pdb
+E:\Fall 21-22\OOP 2 Lab Task\Week10LabTask\Week10LabTask\obj\Debug\Week10LabTask.csproj.AssemblyReference.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week10LabTask\Week10LabTask\obj\Debug\Week10LabTask.Dashboard.resources
+E:\Fall 21-22\OOP 2 Lab Task\Week10LabTask\Week10LabTask\obj\Debug\Week10LabTask.Form1.resources
+E:\Fall 21-22\OOP 2 Lab Task\Week10LabTask\Week10LabTask\obj\Debug\Week10LabTask.Properties.Resources.resources
+E:\Fall 21-22\OOP 2 Lab Task\Week10LabTask\Week10LabTask\obj\Debug\Week10LabTask.csproj.GenerateResource.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week10LabTask\Week10LabTask\obj\Debug\Week10LabTask.csproj.CoreCompileInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week10LabTask\Week10LabTask\obj\Debug\Week10LabTask.exe
+E:\Fall 21-22\OOP 2 Lab Task\Week10LabTask\Week10LabTask\obj\Debug\Week10LabTask.pdb

@@ -1,0 +1,10 @@
+C:\Users\mazid\source\repos\Ten2GValidation\Ten2GValidation\bin\Debug\Ten2GValidation.exe.config
+C:\Users\mazid\source\repos\Ten2GValidation\Ten2GValidation\bin\Debug\Ten2GValidation.exe
+C:\Users\mazid\source\repos\Ten2GValidation\Ten2GValidation\bin\Debug\Ten2GValidation.pdb
+C:\Users\mazid\source\repos\Ten2GValidation\Ten2GValidation\obj\Debug\Ten2GValidation.csproj.AssemblyReference.cache
+C:\Users\mazid\source\repos\Ten2GValidation\Ten2GValidation\obj\Debug\Ten2GValidation.Form1.resources
+C:\Users\mazid\source\repos\Ten2GValidation\Ten2GValidation\obj\Debug\Ten2GValidation.Properties.Resources.resources
+C:\Users\mazid\source\repos\Ten2GValidation\Ten2GValidation\obj\Debug\Ten2GValidation.csproj.GenerateResource.cache
+C:\Users\mazid\source\repos\Ten2GValidation\Ten2GValidation\obj\Debug\Ten2GValidation.csproj.CoreCompileInputs.cache
+C:\Users\mazid\source\repos\Ten2GValidation\Ten2GValidation\obj\Debug\Ten2GValidation.exe
+C:\Users\mazid\source\repos\Ten2GValidation\Ten2GValidation\obj\Debug\Ten2GValidation.pdb

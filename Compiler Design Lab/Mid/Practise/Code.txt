@@ -1,0 +1,7 @@
+//this is a comment
+/*
+A multiline
+comment
+*/
+double a = b + c * x;
+// another comment

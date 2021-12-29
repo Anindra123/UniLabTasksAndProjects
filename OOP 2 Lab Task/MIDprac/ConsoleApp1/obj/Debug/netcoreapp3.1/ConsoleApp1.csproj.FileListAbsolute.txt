@@ -1,0 +1,14 @@
+E:\Fall 21-22\OOP 2 Lab Task\MIDprac\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\Fall 21-22\OOP 2 Lab Task\MIDprac\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\Fall 21-22\OOP 2 Lab Task\MIDprac\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\Fall 21-22\OOP 2 Lab Task\MIDprac\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\Fall 21-22\OOP 2 Lab Task\MIDprac\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\Fall 21-22\OOP 2 Lab Task\MIDprac\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\Fall 21-22\OOP 2 Lab Task\MIDprac\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Fall 21-22\OOP 2 Lab Task\MIDprac\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 21-22\OOP 2 Lab Task\MIDprac\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\MIDprac\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\Fall 21-22\OOP 2 Lab Task\MIDprac\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\MIDprac\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\Fall 21-22\OOP 2 Lab Task\MIDprac\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\Fall 21-22\OOP 2 Lab Task\MIDprac\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

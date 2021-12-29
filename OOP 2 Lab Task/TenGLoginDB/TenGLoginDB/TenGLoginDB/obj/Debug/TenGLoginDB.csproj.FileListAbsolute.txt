@@ -1,0 +1,22 @@
+C:\Users\mazid\source\repos\TenGLoginDB\TenGLoginDB\bin\Debug\TenGLoginDB.exe.config
+C:\Users\mazid\source\repos\TenGLoginDB\TenGLoginDB\bin\Debug\TenGLoginDB.exe
+C:\Users\mazid\source\repos\TenGLoginDB\TenGLoginDB\bin\Debug\TenGLoginDB.pdb
+C:\Users\mazid\source\repos\TenGLoginDB\TenGLoginDB\obj\Debug\TenGLoginDB.csproj.AssemblyReference.cache
+C:\Users\mazid\source\repos\TenGLoginDB\TenGLoginDB\obj\Debug\TenGLoginDB.Properties.Resources.resources
+C:\Users\mazid\source\repos\TenGLoginDB\TenGLoginDB\obj\Debug\TenGLoginDB.csproj.GenerateResource.cache
+C:\Users\mazid\source\repos\TenGLoginDB\TenGLoginDB\obj\Debug\TenGLoginDB.csproj.CoreCompileInputs.cache
+C:\Users\mazid\source\repos\TenGLoginDB\TenGLoginDB\obj\Debug\TenGLoginDB.exe
+C:\Users\mazid\source\repos\TenGLoginDB\TenGLoginDB\obj\Debug\TenGLoginDB.pdb
+C:\Users\mazid\source\repos\TenGLoginDB\TenGLoginDB\obj\Debug\TenGLoginDB.frmLogin.resources
+C:\Users\mazid\source\repos\TenGLoginDB\TenGLoginDB\obj\Debug\TenGLoginDB.Dashboard.resources
+E:\Fall 21-22\OOP 2 Lab Task\TenGLoginDB\TenGLoginDB\TenGLoginDB\obj\Debug\TenGLoginDB.csproj.AssemblyReference.cache
+E:\Fall 21-22\OOP 2 Lab Task\TenGLoginDB\TenGLoginDB\TenGLoginDB\obj\Debug\TenGLoginDB.frmLogin.resources
+E:\Fall 21-22\OOP 2 Lab Task\TenGLoginDB\TenGLoginDB\TenGLoginDB\obj\Debug\TenGLoginDB.Dashboard.resources
+E:\Fall 21-22\OOP 2 Lab Task\TenGLoginDB\TenGLoginDB\TenGLoginDB\obj\Debug\TenGLoginDB.Properties.Resources.resources
+E:\Fall 21-22\OOP 2 Lab Task\TenGLoginDB\TenGLoginDB\TenGLoginDB\obj\Debug\TenGLoginDB.csproj.GenerateResource.cache
+E:\Fall 21-22\OOP 2 Lab Task\TenGLoginDB\TenGLoginDB\TenGLoginDB\obj\Debug\TenGLoginDB.csproj.CoreCompileInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\TenGLoginDB\TenGLoginDB\TenGLoginDB\obj\Debug\TenGLoginDB.exe
+E:\Fall 21-22\OOP 2 Lab Task\TenGLoginDB\TenGLoginDB\TenGLoginDB\obj\Debug\TenGLoginDB.pdb
+E:\Fall 21-22\OOP 2 Lab Task\TenGLoginDB\TenGLoginDB\TenGLoginDB\bin\Debug\TenGLoginDB.exe.config
+E:\Fall 21-22\OOP 2 Lab Task\TenGLoginDB\TenGLoginDB\TenGLoginDB\bin\Debug\TenGLoginDB.exe
+E:\Fall 21-22\OOP 2 Lab Task\TenGLoginDB\TenGLoginDB\TenGLoginDB\bin\Debug\TenGLoginDB.pdb

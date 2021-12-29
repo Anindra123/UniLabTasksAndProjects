@@ -1,0 +1,14 @@
+E:\Fall 21-22\OOP 2 Lab Task\exampracweek11\exampracweek11\bin\Debug\netcoreapp3.1\exampracweek11.exe
+E:\Fall 21-22\OOP 2 Lab Task\exampracweek11\exampracweek11\bin\Debug\netcoreapp3.1\exampracweek11.deps.json
+E:\Fall 21-22\OOP 2 Lab Task\exampracweek11\exampracweek11\bin\Debug\netcoreapp3.1\exampracweek11.runtimeconfig.json
+E:\Fall 21-22\OOP 2 Lab Task\exampracweek11\exampracweek11\bin\Debug\netcoreapp3.1\exampracweek11.runtimeconfig.dev.json
+E:\Fall 21-22\OOP 2 Lab Task\exampracweek11\exampracweek11\bin\Debug\netcoreapp3.1\exampracweek11.dll
+E:\Fall 21-22\OOP 2 Lab Task\exampracweek11\exampracweek11\bin\Debug\netcoreapp3.1\exampracweek11.pdb
+E:\Fall 21-22\OOP 2 Lab Task\exampracweek11\exampracweek11\obj\Debug\netcoreapp3.1\exampracweek11.csproj.AssemblyReference.cache
+E:\Fall 21-22\OOP 2 Lab Task\exampracweek11\exampracweek11\obj\Debug\netcoreapp3.1\exampracweek11.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 21-22\OOP 2 Lab Task\exampracweek11\exampracweek11\obj\Debug\netcoreapp3.1\exampracweek11.AssemblyInfoInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\exampracweek11\exampracweek11\obj\Debug\netcoreapp3.1\exampracweek11.AssemblyInfo.cs
+E:\Fall 21-22\OOP 2 Lab Task\exampracweek11\exampracweek11\obj\Debug\netcoreapp3.1\exampracweek11.csproj.CoreCompileInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\exampracweek11\exampracweek11\obj\Debug\netcoreapp3.1\exampracweek11.dll
+E:\Fall 21-22\OOP 2 Lab Task\exampracweek11\exampracweek11\obj\Debug\netcoreapp3.1\exampracweek11.pdb
+E:\Fall 21-22\OOP 2 Lab Task\exampracweek11\exampracweek11\obj\Debug\netcoreapp3.1\exampracweek11.genruntimeconfig.cache

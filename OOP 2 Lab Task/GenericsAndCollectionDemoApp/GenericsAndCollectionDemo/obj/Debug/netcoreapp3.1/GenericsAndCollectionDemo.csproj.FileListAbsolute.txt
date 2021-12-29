@@ -1,0 +1,14 @@
+E:\Fall 21-22\OOP 2 Lab Task\GenericsAndCollectionDemoApp\GenericsAndCollectionDemo\obj\Debug\netcoreapp3.1\GenericsAndCollectionDemo.csproj.AssemblyReference.cache
+E:\Fall 21-22\OOP 2 Lab Task\GenericsAndCollectionDemoApp\GenericsAndCollectionDemo\obj\Debug\netcoreapp3.1\GenericsAndCollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 21-22\OOP 2 Lab Task\GenericsAndCollectionDemoApp\GenericsAndCollectionDemo\obj\Debug\netcoreapp3.1\GenericsAndCollectionDemo.AssemblyInfoInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\GenericsAndCollectionDemoApp\GenericsAndCollectionDemo\obj\Debug\netcoreapp3.1\GenericsAndCollectionDemo.AssemblyInfo.cs
+E:\Fall 21-22\OOP 2 Lab Task\GenericsAndCollectionDemoApp\GenericsAndCollectionDemo\obj\Debug\netcoreapp3.1\GenericsAndCollectionDemo.csproj.CoreCompileInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\GenericsAndCollectionDemoApp\GenericsAndCollectionDemo\bin\Debug\netcoreapp3.1\GenericsAndCollectionDemo.exe
+E:\Fall 21-22\OOP 2 Lab Task\GenericsAndCollectionDemoApp\GenericsAndCollectionDemo\bin\Debug\netcoreapp3.1\GenericsAndCollectionDemo.deps.json
+E:\Fall 21-22\OOP 2 Lab Task\GenericsAndCollectionDemoApp\GenericsAndCollectionDemo\bin\Debug\netcoreapp3.1\GenericsAndCollectionDemo.runtimeconfig.json
+E:\Fall 21-22\OOP 2 Lab Task\GenericsAndCollectionDemoApp\GenericsAndCollectionDemo\bin\Debug\netcoreapp3.1\GenericsAndCollectionDemo.runtimeconfig.dev.json
+E:\Fall 21-22\OOP 2 Lab Task\GenericsAndCollectionDemoApp\GenericsAndCollectionDemo\bin\Debug\netcoreapp3.1\GenericsAndCollectionDemo.dll
+E:\Fall 21-22\OOP 2 Lab Task\GenericsAndCollectionDemoApp\GenericsAndCollectionDemo\bin\Debug\netcoreapp3.1\GenericsAndCollectionDemo.pdb
+E:\Fall 21-22\OOP 2 Lab Task\GenericsAndCollectionDemoApp\GenericsAndCollectionDemo\obj\Debug\netcoreapp3.1\GenericsAndCollectionDemo.dll
+E:\Fall 21-22\OOP 2 Lab Task\GenericsAndCollectionDemoApp\GenericsAndCollectionDemo\obj\Debug\netcoreapp3.1\GenericsAndCollectionDemo.pdb
+E:\Fall 21-22\OOP 2 Lab Task\GenericsAndCollectionDemoApp\GenericsAndCollectionDemo\obj\Debug\netcoreapp3.1\GenericsAndCollectionDemo.genruntimeconfig.cache

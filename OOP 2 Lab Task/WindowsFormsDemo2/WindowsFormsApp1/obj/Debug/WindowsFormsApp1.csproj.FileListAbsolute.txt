@@ -1,0 +1,12 @@
+E:\Fall 21-22\OOP 2 Lab Task\WindowsFormsDemo2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Fall 21-22\OOP 2 Lab Task\WindowsFormsDemo2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Fall 21-22\OOP 2 Lab Task\WindowsFormsDemo2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Fall 21-22\OOP 2 Lab Task\WindowsFormsDemo2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Fall 21-22\OOP 2 Lab Task\WindowsFormsDemo2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Fall 21-22\OOP 2 Lab Task\WindowsFormsDemo2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Fall 21-22\OOP 2 Lab Task\WindowsFormsDemo2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Fall 21-22\OOP 2 Lab Task\WindowsFormsDemo2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\WindowsFormsDemo2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Fall 21-22\OOP 2 Lab Task\WindowsFormsDemo2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Fall 21-22\OOP 2 Lab Task\WindowsFormsDemo2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FoundImposta.resources
+E:\Fall 21-22\OOP 2 Lab Task\WindowsFormsDemo2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KilledCrewMate.resources

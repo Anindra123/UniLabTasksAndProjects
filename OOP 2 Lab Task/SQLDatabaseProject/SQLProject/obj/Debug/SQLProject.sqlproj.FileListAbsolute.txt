@@ -1,0 +1,10 @@
+E:\Fall 21-22\OOP 2 Lab Task\SQLDatabaseProject\SQLProject\bin\Debug\SQLProject.dacpac
+E:\Fall 21-22\OOP 2 Lab Task\SQLDatabaseProject\SQLProject\bin\Debug\SQLProject.dll
+E:\Fall 21-22\OOP 2 Lab Task\SQLDatabaseProject\SQLProject\bin\Debug\SQLProject.pdb
+E:\Fall 21-22\OOP 2 Lab Task\SQLDatabaseProject\SQLProject\obj\Debug\SQLProject.sqlproj.AssemblyReference.cache
+E:\Fall 21-22\OOP 2 Lab Task\SQLDatabaseProject\SQLProject\obj\Debug\Model.xml
+E:\Fall 21-22\OOP 2 Lab Task\SQLDatabaseProject\SQLProject\obj\Debug\refactor.xml
+E:\Fall 21-22\OOP 2 Lab Task\SQLDatabaseProject\SQLProject\obj\Debug\postdeploy.sql
+E:\Fall 21-22\OOP 2 Lab Task\SQLDatabaseProject\SQLProject\obj\Debug\predeploy.sql
+E:\Fall 21-22\OOP 2 Lab Task\SQLDatabaseProject\SQLProject\obj\Debug\SQLProject.dll
+E:\Fall 21-22\OOP 2 Lab Task\SQLDatabaseProject\SQLProject\obj\Debug\SQLProject.pdb

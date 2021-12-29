@@ -1,0 +1,11 @@
+//this a comment
+/*
+this 
+another comment
+*/
+int a = b + c ; // operation
+int c = d; // another operation
+/*
+another
+comment
+*/

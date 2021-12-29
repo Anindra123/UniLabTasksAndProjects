@@ -1,0 +1,12 @@
+E:\Fall 21-22\OOP 2 Lab Task\Week9LabTask\Week9LabTask\bin\Debug\Week9LabTask.exe.config
+E:\Fall 21-22\OOP 2 Lab Task\Week9LabTask\Week9LabTask\bin\Debug\Week9LabTask.exe
+E:\Fall 21-22\OOP 2 Lab Task\Week9LabTask\Week9LabTask\bin\Debug\Week9LabTask.pdb
+E:\Fall 21-22\OOP 2 Lab Task\Week9LabTask\Week9LabTask\obj\Debug\Week9LabTask.csproj.AssemblyReference.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week9LabTask\Week9LabTask\obj\Debug\Week9LabTask.Form1.resources
+E:\Fall 21-22\OOP 2 Lab Task\Week9LabTask\Week9LabTask\obj\Debug\Week9LabTask.Properties.Resources.resources
+E:\Fall 21-22\OOP 2 Lab Task\Week9LabTask\Week9LabTask\obj\Debug\Week9LabTask.csproj.GenerateResource.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week9LabTask\Week9LabTask\obj\Debug\Week9LabTask.csproj.CoreCompileInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week9LabTask\Week9LabTask\obj\Debug\Week9LabTask.exe
+E:\Fall 21-22\OOP 2 Lab Task\Week9LabTask\Week9LabTask\obj\Debug\Week9LabTask.pdb
+E:\Fall 21-22\OOP 2 Lab Task\Week9LabTask\Week9LabTask\obj\Debug\Week9LabTask.FoolFormYes.resources
+E:\Fall 21-22\OOP 2 Lab Task\Week9LabTask\Week9LabTask\obj\Debug\Week9LabTask.NotAFoolForm.resources

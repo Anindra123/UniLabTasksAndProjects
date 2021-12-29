@@ -1,0 +1,14 @@
+E:\Fall 21-22\OOP 2 Lab Task\IndexerDemoApp\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.exe
+E:\Fall 21-22\OOP 2 Lab Task\IndexerDemoApp\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.deps.json
+E:\Fall 21-22\OOP 2 Lab Task\IndexerDemoApp\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.runtimeconfig.json
+E:\Fall 21-22\OOP 2 Lab Task\IndexerDemoApp\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.runtimeconfig.dev.json
+E:\Fall 21-22\OOP 2 Lab Task\IndexerDemoApp\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.dll
+E:\Fall 21-22\OOP 2 Lab Task\IndexerDemoApp\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.pdb
+E:\Fall 21-22\OOP 2 Lab Task\IndexerDemoApp\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.csproj.AssemblyReference.cache
+E:\Fall 21-22\OOP 2 Lab Task\IndexerDemoApp\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 21-22\OOP 2 Lab Task\IndexerDemoApp\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.AssemblyInfoInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\IndexerDemoApp\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.AssemblyInfo.cs
+E:\Fall 21-22\OOP 2 Lab Task\IndexerDemoApp\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.csproj.CoreCompileInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\IndexerDemoApp\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.dll
+E:\Fall 21-22\OOP 2 Lab Task\IndexerDemoApp\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.pdb
+E:\Fall 21-22\OOP 2 Lab Task\IndexerDemoApp\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.genruntimeconfig.cache

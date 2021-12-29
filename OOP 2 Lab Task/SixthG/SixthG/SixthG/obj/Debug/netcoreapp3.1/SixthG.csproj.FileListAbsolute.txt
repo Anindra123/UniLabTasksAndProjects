@@ -1,0 +1,28 @@
+C:\Users\mazid\source\repos\SixthG\SixthG\bin\Debug\netcoreapp3.1\SixthG.exe
+C:\Users\mazid\source\repos\SixthG\SixthG\bin\Debug\netcoreapp3.1\SixthG.deps.json
+C:\Users\mazid\source\repos\SixthG\SixthG\bin\Debug\netcoreapp3.1\SixthG.runtimeconfig.json
+C:\Users\mazid\source\repos\SixthG\SixthG\bin\Debug\netcoreapp3.1\SixthG.runtimeconfig.dev.json
+C:\Users\mazid\source\repos\SixthG\SixthG\bin\Debug\netcoreapp3.1\SixthG.dll
+C:\Users\mazid\source\repos\SixthG\SixthG\bin\Debug\netcoreapp3.1\SixthG.pdb
+C:\Users\mazid\source\repos\SixthG\SixthG\obj\Debug\netcoreapp3.1\SixthG.csproj.AssemblyReference.cache
+C:\Users\mazid\source\repos\SixthG\SixthG\obj\Debug\netcoreapp3.1\SixthG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazid\source\repos\SixthG\SixthG\obj\Debug\netcoreapp3.1\SixthG.AssemblyInfoInputs.cache
+C:\Users\mazid\source\repos\SixthG\SixthG\obj\Debug\netcoreapp3.1\SixthG.AssemblyInfo.cs
+C:\Users\mazid\source\repos\SixthG\SixthG\obj\Debug\netcoreapp3.1\SixthG.csproj.CoreCompileInputs.cache
+C:\Users\mazid\source\repos\SixthG\SixthG\obj\Debug\netcoreapp3.1\SixthG.dll
+C:\Users\mazid\source\repos\SixthG\SixthG\obj\Debug\netcoreapp3.1\SixthG.pdb
+C:\Users\mazid\source\repos\SixthG\SixthG\obj\Debug\netcoreapp3.1\SixthG.genruntimeconfig.cache
+E:\Fall 21-22\OOP 2 Lab Task\SixthG\SixthG\SixthG\bin\Debug\netcoreapp3.1\SixthG.exe
+E:\Fall 21-22\OOP 2 Lab Task\SixthG\SixthG\SixthG\bin\Debug\netcoreapp3.1\SixthG.deps.json
+E:\Fall 21-22\OOP 2 Lab Task\SixthG\SixthG\SixthG\bin\Debug\netcoreapp3.1\SixthG.runtimeconfig.json
+E:\Fall 21-22\OOP 2 Lab Task\SixthG\SixthG\SixthG\bin\Debug\netcoreapp3.1\SixthG.runtimeconfig.dev.json
+E:\Fall 21-22\OOP 2 Lab Task\SixthG\SixthG\SixthG\bin\Debug\netcoreapp3.1\SixthG.dll
+E:\Fall 21-22\OOP 2 Lab Task\SixthG\SixthG\SixthG\bin\Debug\netcoreapp3.1\SixthG.pdb
+E:\Fall 21-22\OOP 2 Lab Task\SixthG\SixthG\SixthG\obj\Debug\netcoreapp3.1\SixthG.csproj.AssemblyReference.cache
+E:\Fall 21-22\OOP 2 Lab Task\SixthG\SixthG\SixthG\obj\Debug\netcoreapp3.1\SixthG.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 21-22\OOP 2 Lab Task\SixthG\SixthG\SixthG\obj\Debug\netcoreapp3.1\SixthG.AssemblyInfoInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\SixthG\SixthG\SixthG\obj\Debug\netcoreapp3.1\SixthG.AssemblyInfo.cs
+E:\Fall 21-22\OOP 2 Lab Task\SixthG\SixthG\SixthG\obj\Debug\netcoreapp3.1\SixthG.csproj.CoreCompileInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\SixthG\SixthG\SixthG\obj\Debug\netcoreapp3.1\SixthG.dll
+E:\Fall 21-22\OOP 2 Lab Task\SixthG\SixthG\SixthG\obj\Debug\netcoreapp3.1\SixthG.pdb
+E:\Fall 21-22\OOP 2 Lab Task\SixthG\SixthG\SixthG\obj\Debug\netcoreapp3.1\SixthG.genruntimeconfig.cache

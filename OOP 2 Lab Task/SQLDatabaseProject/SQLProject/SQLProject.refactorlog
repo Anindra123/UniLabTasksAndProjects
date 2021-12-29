@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="d23344dd-aa1f-48bb-b5c2-a9abf6ea049b" ChangeDateTime="10/30/2021 10:55:39">
+    <Property Name="ElementName" Value="[dbo].[Person].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Person]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="person_Id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="2b5f7b5c-c30f-440a-bca1-d591ca621d4c" ChangeDateTime="10/30/2021 10:59:48">
+    <Property Name="ElementName" Value="[dbo].[Account].[amount]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Account]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="acc_balance" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="128dafb4-1949-46e3-a2ec-6a83bbe2455c" ChangeDateTime="10/30/2021 11:02:01">
+    <Property Name="ElementName" Value="[dbo].[FK_Person_ToTable]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[Person]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_Person_Account]" />
+  </Operation>
+</Operations>

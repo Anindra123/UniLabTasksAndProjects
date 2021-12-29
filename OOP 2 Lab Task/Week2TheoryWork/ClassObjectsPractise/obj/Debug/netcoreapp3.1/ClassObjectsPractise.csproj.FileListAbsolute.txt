@@ -1,0 +1,14 @@
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\ClassObjectsPractise\bin\Debug\netcoreapp3.1\ClassObjectsPractise.exe
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\ClassObjectsPractise\bin\Debug\netcoreapp3.1\ClassObjectsPractise.deps.json
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\ClassObjectsPractise\bin\Debug\netcoreapp3.1\ClassObjectsPractise.runtimeconfig.json
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\ClassObjectsPractise\bin\Debug\netcoreapp3.1\ClassObjectsPractise.runtimeconfig.dev.json
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\ClassObjectsPractise\bin\Debug\netcoreapp3.1\ClassObjectsPractise.dll
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\ClassObjectsPractise\bin\Debug\netcoreapp3.1\ClassObjectsPractise.pdb
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\ClassObjectsPractise\obj\Debug\netcoreapp3.1\ClassObjectsPractise.csproj.AssemblyReference.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\ClassObjectsPractise\obj\Debug\netcoreapp3.1\ClassObjectsPractise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\ClassObjectsPractise\obj\Debug\netcoreapp3.1\ClassObjectsPractise.AssemblyInfoInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\ClassObjectsPractise\obj\Debug\netcoreapp3.1\ClassObjectsPractise.AssemblyInfo.cs
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\ClassObjectsPractise\obj\Debug\netcoreapp3.1\ClassObjectsPractise.csproj.CoreCompileInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\ClassObjectsPractise\obj\Debug\netcoreapp3.1\ClassObjectsPractise.dll
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\ClassObjectsPractise\obj\Debug\netcoreapp3.1\ClassObjectsPractise.pdb
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\ClassObjectsPractise\obj\Debug\netcoreapp3.1\ClassObjectsPractise.genruntimeconfig.cache

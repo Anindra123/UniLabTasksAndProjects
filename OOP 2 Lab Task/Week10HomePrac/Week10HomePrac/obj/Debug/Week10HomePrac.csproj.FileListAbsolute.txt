@@ -1,0 +1,12 @@
+E:\Fall 21-22\OOP 2 Lab Task\Week10HomePrac\Week10HomePrac\bin\Debug\Week10HomePrac.exe.config
+E:\Fall 21-22\OOP 2 Lab Task\Week10HomePrac\Week10HomePrac\bin\Debug\Week10HomePrac.exe
+E:\Fall 21-22\OOP 2 Lab Task\Week10HomePrac\Week10HomePrac\bin\Debug\Week10HomePrac.pdb
+E:\Fall 21-22\OOP 2 Lab Task\Week10HomePrac\Week10HomePrac\obj\Debug\Week10HomePrac.csproj.AssemblyReference.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week10HomePrac\Week10HomePrac\obj\Debug\Week10HomePrac.Form1.resources
+E:\Fall 21-22\OOP 2 Lab Task\Week10HomePrac\Week10HomePrac\obj\Debug\Week10HomePrac.Form2.resources
+E:\Fall 21-22\OOP 2 Lab Task\Week10HomePrac\Week10HomePrac\obj\Debug\Week10HomePrac.Form3.resources
+E:\Fall 21-22\OOP 2 Lab Task\Week10HomePrac\Week10HomePrac\obj\Debug\Week10HomePrac.Properties.Resources.resources
+E:\Fall 21-22\OOP 2 Lab Task\Week10HomePrac\Week10HomePrac\obj\Debug\Week10HomePrac.csproj.GenerateResource.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week10HomePrac\Week10HomePrac\obj\Debug\Week10HomePrac.csproj.CoreCompileInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week10HomePrac\Week10HomePrac\obj\Debug\Week10HomePrac.exe
+E:\Fall 21-22\OOP 2 Lab Task\Week10HomePrac\Week10HomePrac\obj\Debug\Week10HomePrac.pdb

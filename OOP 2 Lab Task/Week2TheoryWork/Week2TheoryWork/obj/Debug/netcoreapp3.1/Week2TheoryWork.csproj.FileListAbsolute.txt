@@ -1,0 +1,14 @@
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\Week2TheoryWork\obj\Debug\netcoreapp3.1\Week2TheoryWork.csproj.AssemblyReference.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\Week2TheoryWork\obj\Debug\netcoreapp3.1\Week2TheoryWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\Week2TheoryWork\obj\Debug\netcoreapp3.1\Week2TheoryWork.AssemblyInfoInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\Week2TheoryWork\obj\Debug\netcoreapp3.1\Week2TheoryWork.AssemblyInfo.cs
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\Week2TheoryWork\obj\Debug\netcoreapp3.1\Week2TheoryWork.csproj.CoreCompileInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\Week2TheoryWork\bin\Debug\netcoreapp3.1\Week2TheoryWork.exe
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\Week2TheoryWork\bin\Debug\netcoreapp3.1\Week2TheoryWork.deps.json
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\Week2TheoryWork\bin\Debug\netcoreapp3.1\Week2TheoryWork.runtimeconfig.json
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\Week2TheoryWork\bin\Debug\netcoreapp3.1\Week2TheoryWork.runtimeconfig.dev.json
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\Week2TheoryWork\bin\Debug\netcoreapp3.1\Week2TheoryWork.dll
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\Week2TheoryWork\bin\Debug\netcoreapp3.1\Week2TheoryWork.pdb
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\Week2TheoryWork\obj\Debug\netcoreapp3.1\Week2TheoryWork.dll
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\Week2TheoryWork\obj\Debug\netcoreapp3.1\Week2TheoryWork.pdb
+E:\Fall 21-22\OOP 2 Lab Task\Week2TheoryWork\Week2TheoryWork\obj\Debug\netcoreapp3.1\Week2TheoryWork.genruntimeconfig.cache

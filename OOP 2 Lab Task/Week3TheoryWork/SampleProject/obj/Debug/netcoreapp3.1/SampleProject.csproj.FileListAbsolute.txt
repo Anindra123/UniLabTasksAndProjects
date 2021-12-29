@@ -1,0 +1,14 @@
+E:\Fall 21-22\OOP 2 Lab Task\Week3TheoryWork\SampleProject\bin\Debug\netcoreapp3.1\SampleProject.exe
+E:\Fall 21-22\OOP 2 Lab Task\Week3TheoryWork\SampleProject\bin\Debug\netcoreapp3.1\SampleProject.deps.json
+E:\Fall 21-22\OOP 2 Lab Task\Week3TheoryWork\SampleProject\bin\Debug\netcoreapp3.1\SampleProject.runtimeconfig.json
+E:\Fall 21-22\OOP 2 Lab Task\Week3TheoryWork\SampleProject\bin\Debug\netcoreapp3.1\SampleProject.runtimeconfig.dev.json
+E:\Fall 21-22\OOP 2 Lab Task\Week3TheoryWork\SampleProject\bin\Debug\netcoreapp3.1\SampleProject.dll
+E:\Fall 21-22\OOP 2 Lab Task\Week3TheoryWork\SampleProject\bin\Debug\netcoreapp3.1\SampleProject.pdb
+E:\Fall 21-22\OOP 2 Lab Task\Week3TheoryWork\SampleProject\obj\Debug\netcoreapp3.1\SampleProject.csproj.AssemblyReference.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week3TheoryWork\SampleProject\obj\Debug\netcoreapp3.1\SampleProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 21-22\OOP 2 Lab Task\Week3TheoryWork\SampleProject\obj\Debug\netcoreapp3.1\SampleProject.AssemblyInfoInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week3TheoryWork\SampleProject\obj\Debug\netcoreapp3.1\SampleProject.AssemblyInfo.cs
+E:\Fall 21-22\OOP 2 Lab Task\Week3TheoryWork\SampleProject\obj\Debug\netcoreapp3.1\SampleProject.csproj.CoreCompileInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\Week3TheoryWork\SampleProject\obj\Debug\netcoreapp3.1\SampleProject.dll
+E:\Fall 21-22\OOP 2 Lab Task\Week3TheoryWork\SampleProject\obj\Debug\netcoreapp3.1\SampleProject.pdb
+E:\Fall 21-22\OOP 2 Lab Task\Week3TheoryWork\SampleProject\obj\Debug\netcoreapp3.1\SampleProject.genruntimeconfig.cache

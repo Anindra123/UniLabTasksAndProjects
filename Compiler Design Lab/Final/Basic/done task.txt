@@ -1,0 +1,10 @@
+int main()
+{
+
+int a = b+c;
+while(i = 0)
+{
+i= i+1;
+}
+
+}

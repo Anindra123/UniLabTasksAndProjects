@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\LabTask2Week2\LabTask2Week2\bin\Debug\netcoreapp3.1\LabTask2Week2.exe
+C:\Users\ASUS\source\repos\LabTask2Week2\LabTask2Week2\bin\Debug\netcoreapp3.1\LabTask2Week2.deps.json
+C:\Users\ASUS\source\repos\LabTask2Week2\LabTask2Week2\bin\Debug\netcoreapp3.1\LabTask2Week2.runtimeconfig.json
+C:\Users\ASUS\source\repos\LabTask2Week2\LabTask2Week2\bin\Debug\netcoreapp3.1\LabTask2Week2.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\LabTask2Week2\LabTask2Week2\bin\Debug\netcoreapp3.1\LabTask2Week2.dll
+C:\Users\ASUS\source\repos\LabTask2Week2\LabTask2Week2\bin\Debug\netcoreapp3.1\LabTask2Week2.pdb
+C:\Users\ASUS\source\repos\LabTask2Week2\LabTask2Week2\obj\Debug\netcoreapp3.1\LabTask2Week2.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\LabTask2Week2\LabTask2Week2\obj\Debug\netcoreapp3.1\LabTask2Week2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\LabTask2Week2\LabTask2Week2\obj\Debug\netcoreapp3.1\LabTask2Week2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\LabTask2Week2\LabTask2Week2\obj\Debug\netcoreapp3.1\LabTask2Week2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\LabTask2Week2\LabTask2Week2\obj\Debug\netcoreapp3.1\LabTask2Week2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LabTask2Week2\LabTask2Week2\obj\Debug\netcoreapp3.1\LabTask2Week2.dll
+C:\Users\ASUS\source\repos\LabTask2Week2\LabTask2Week2\obj\Debug\netcoreapp3.1\LabTask2Week2.pdb
+C:\Users\ASUS\source\repos\LabTask2Week2\LabTask2Week2\obj\Debug\netcoreapp3.1\LabTask2Week2.genruntimeconfig.cache

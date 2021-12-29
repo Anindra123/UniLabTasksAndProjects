@@ -1,0 +1,11 @@
+C:\Users\mazid\source\repos\Navigation\Navigation\bin\Debug\Navigation.exe.config
+C:\Users\mazid\source\repos\Navigation\Navigation\bin\Debug\Navigation.exe
+C:\Users\mazid\source\repos\Navigation\Navigation\bin\Debug\Navigation.pdb
+C:\Users\mazid\source\repos\Navigation\Navigation\obj\Debug\Navigation.csproj.AssemblyReference.cache
+C:\Users\mazid\source\repos\Navigation\Navigation\obj\Debug\Navigation.Form1.resources
+C:\Users\mazid\source\repos\Navigation\Navigation\obj\Debug\Navigation.Form2.resources
+C:\Users\mazid\source\repos\Navigation\Navigation\obj\Debug\Navigation.Properties.Resources.resources
+C:\Users\mazid\source\repos\Navigation\Navigation\obj\Debug\Navigation.csproj.GenerateResource.cache
+C:\Users\mazid\source\repos\Navigation\Navigation\obj\Debug\Navigation.csproj.CoreCompileInputs.cache
+C:\Users\mazid\source\repos\Navigation\Navigation\obj\Debug\Navigation.exe
+C:\Users\mazid\source\repos\Navigation\Navigation\obj\Debug\Navigation.pdb

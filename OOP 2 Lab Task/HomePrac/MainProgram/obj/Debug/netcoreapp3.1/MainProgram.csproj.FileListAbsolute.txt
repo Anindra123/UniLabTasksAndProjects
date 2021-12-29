@@ -1,0 +1,14 @@
+E:\Fall 21-22\OOP 2 Lab Task\HomePrac\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.exe
+E:\Fall 21-22\OOP 2 Lab Task\HomePrac\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.deps.json
+E:\Fall 21-22\OOP 2 Lab Task\HomePrac\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.runtimeconfig.json
+E:\Fall 21-22\OOP 2 Lab Task\HomePrac\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.runtimeconfig.dev.json
+E:\Fall 21-22\OOP 2 Lab Task\HomePrac\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.dll
+E:\Fall 21-22\OOP 2 Lab Task\HomePrac\MainProgram\bin\Debug\netcoreapp3.1\MainProgram.pdb
+E:\Fall 21-22\OOP 2 Lab Task\HomePrac\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.csproj.AssemblyReference.cache
+E:\Fall 21-22\OOP 2 Lab Task\HomePrac\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 21-22\OOP 2 Lab Task\HomePrac\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.AssemblyInfoInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\HomePrac\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.AssemblyInfo.cs
+E:\Fall 21-22\OOP 2 Lab Task\HomePrac\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.csproj.CoreCompileInputs.cache
+E:\Fall 21-22\OOP 2 Lab Task\HomePrac\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.dll
+E:\Fall 21-22\OOP 2 Lab Task\HomePrac\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.pdb
+E:\Fall 21-22\OOP 2 Lab Task\HomePrac\MainProgram\obj\Debug\netcoreapp3.1\MainProgram.genruntimeconfig.cache

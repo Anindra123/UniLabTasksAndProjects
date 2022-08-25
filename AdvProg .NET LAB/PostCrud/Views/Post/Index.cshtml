@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@Html.ActionLink("Create Post","Create","Post",null,new { @class = "btn btn-primary"})
+<br />
+<br />
+<table class="table table-responsive">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>User Name</th>
+            <th>Post Description</th>
+            <th>Likes</th>
+            <th>Dislikes</th>
+            <th>Tags</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var p in Model)
+        {
+            <tr>
+                <td>@p.id</td>
+                <td>@p.username</td>
+                <td>@p.post_desc</td>
+                <td>@p.likes</td>
+                <td>@p.dislikes</td>
+                <td>@p.tag</td>
+                <td>
+                    @Html.ActionLink("Delete Post", "Delete", "Post", new { id = p.id},new { @class = "btn btn-danger" })
+                    @Html.ActionLink("Edit Post", "Edit", "Post", new { id = p.id},new { @class = "btn btn-success" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

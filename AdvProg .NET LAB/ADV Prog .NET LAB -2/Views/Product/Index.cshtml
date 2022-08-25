@@ -1,0 +1,26 @@
+﻿@model IEnumerable<ADV_Prog.NET_LAB__2.Models.Product>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<h3><strong>Product Added :</strong> ID = @TempData["Id"] &nbsp; Name = @TempData["name"]</h3>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.ProductName</td>
+                <td>@item.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TestDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="__RefactorLog">
+    <Key>
+      <PropertyRef Name="OperationKey" />
+    </Key>
+    <Property Name="OperationKey" Type="uniqueidentifier" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="acc_Id" />
+    </Key>
+    <Property Name="acc_Id" Type="int" Nullable="false" />
+    <Property Name="acc_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="acc_balance" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="acc_type" Type="nvarchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="News">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="title" Type="varchar(max)" Nullable="false" />
+    <Property Name="description" Type="varchar(max)" Nullable="false" />
+    <Property Name="type" Type="varchar(max)" Nullable="false" />
+    <Property Name="date" Type="varchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Person">
+    <Key>
+      <PropertyRef Name="person_Id" />
+    </Key>
+    <Property Name="person_Id" Type="int" Nullable="false" />
+    <Property Name="person_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="person_dob" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="acc_ID" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Person_Account">
+    <End Role="Account" Type="Self.Account" Multiplicity="1" />
+    <End Role="Person" Type="Self.Person" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="acc_Id" />
+      </Principal>
+      <Dependent Role="Person">
+        <PropertyRef Name="acc_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TestDBModelStoreContainer">
+    <EntitySet Name="__RefactorLog" EntityType="Self.__RefactorLog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Account" EntityType="Self.Account" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="News" EntityType="Self.News" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Person" EntityType="Self.Person" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Person_Account" Association="Self.FK_Person_Account">
+      <End Role="Account" EntitySet="Account" />
+      <End Role="Person" EntitySet="Person" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

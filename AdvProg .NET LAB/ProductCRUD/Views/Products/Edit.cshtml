@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit Product</h2>
+
+@Html.ActionLink("Go Back", "Index", "Products", null, new { @class = "btn btn-info" })
+<br />
+<br />
+<form action="" method="post" class="form-group">
+    <label for="pname">Product Name</label>
+    <br />
+    <input type="text" class="form-control" value="@(Model != null ? Model.Name : "")" name="Name" id="pname" placeholder="Enter product name" />
+    <br />
+    <label for="price">Price</label>
+    <br />
+    <input type="number" class="form-control" name="Price" value="@(Model != null ? Model.Price : 0.0)" placeholder="Enter product price" />
+    <br />
+    <input type="submit" class="btn btn-info" />
+
+    <br />
+    <br />
+    <br />
+</form>
+

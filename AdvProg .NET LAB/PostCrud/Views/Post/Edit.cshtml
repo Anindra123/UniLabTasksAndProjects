@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit Post</h2>
+<br />
+@Html.ActionLink("Go Back", "Index", "Post", null, new { @class = "btn btn-primary" })
+<br />
+<br />
+
+<form action="" method="post" class="form-group">
+    <label for="uname">User Name</label>
+    <br />
+    <input type="text" class="form-control" value="@(Model != null ? Model.username : "")" name="username" id="uname" placeholder="Enter your username" />
+    <br />
+    <label for="post_desc">Post Description</label>
+    <br />
+    <textarea name="post_desc" placeholder="write something here..." class="form-control">@(Model !=  null ? Model.post_desc : "")</textarea>
+    <br />
+    <label for="likes">Likes</label>
+    <br />
+    <input type="number" value="@(Model != null ? Model.likes : 0)" class="form-control" name="likes" id="likes" />
+    <br />
+    <label for="dislikes">Dislikes</label>
+    <br />
+    <input type="number" value="@(Model != null ? Model.dislikes : 0)" class="form-control" name="dislikes" id="dislikes" />
+    <br />
+    <label for="tag">Tags</label>
+    <br />
+    <input type="text" class="form-control" value="@(Model != null ? Model.tag : "")" name="tag" id="tag" placeholder="Enter tag as #tag1,#tag2" />
+    <br />
+    <br />
+    <input type="submit" class="btn btn-primary" />
+    <br />
+    <br />
+</form>

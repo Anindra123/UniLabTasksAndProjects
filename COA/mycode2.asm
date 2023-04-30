@@ -1,0 +1,15 @@
+.MODEL SMALL
+.STACK 100H
+
+.DATA
+
+str1 DB 'Hello world$'
+
+
+.CODE
+
+MOV AH,9
+MOV DL,OFFSET str1
+INT 21H
+
+ENDS

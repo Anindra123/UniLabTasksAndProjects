@@ -1,0 +1,44 @@
+.MODEL SMALL
+.STACK 100H
+.DATA
+
+str1 DW 'Enter input character : $'
+str2 DW 10,13,'Binary output is : $'
+
+.CODE
+
+MOV AX,@DATA
+MOV DS,AX
+
+
+MOV AH,9
+LEA DX,str1
+INT 21H
+
+MOV AH,1
+
+
+WHILE:
+INT 21H
+CMP AL,0DH
+JE END_WHILE
+AND AL,0Fh
+SHL BL,1
+OR BL,AL
+LOOP WHILE
+
+END_WHILE:                                          
+MOV AH,9
+LEA DX,str2
+INT 21H
+
+MOV CX,8 
+MOV AH,2
+OUTPUT:
+MOV DL,30H
+ROL BL,1
+JNC skip
+MOV DL,31h
+skip:
+INT 21H
+LOOP OUTPUT

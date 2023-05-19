@@ -1,0 +1,27 @@
+.MODEL SMALL
+.STACK 100H
+
+.DATA
+
+str_1 DW 'Enter a number : $'
+
+
+.CODE
+
+MOV AX,@DATA
+MOV DS,AX
+
+MOV AH,9
+LEA DX,str_1
+INT 21H
+
+MOV AH,1
+INT 21H
+
+MOV BL,AL
+
+AND BL,00Fh
+
+MOV AH,4CH
+INT 21H
+

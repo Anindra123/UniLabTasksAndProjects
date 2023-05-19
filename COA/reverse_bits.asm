@@ -1,0 +1,19 @@
+.MODEL SMALL
+.STACK 100H
+
+
+.CODE
+MAIN PROC
+    MOV AL,11110110b
+    XOR BL,BL
+    MOV CX,8
+    
+    WHILE:
+    SHL AL,1
+    RCR BL,1
+    LOOP WHILE
+    
+    
+    MOV AL,BL
+    MAIN ENDP
+END MAIN
